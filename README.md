@@ -57,7 +57,7 @@ For each, check:
 ## Project Structure
 
 ```
-ai-document-intelligence/
+AI-Document-Intelligence/
 ├── app.py
 ├── requirements.txt
 ├── README.md

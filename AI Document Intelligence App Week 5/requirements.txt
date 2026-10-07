@@ -1,0 +1,8 @@
+streamlit>=1.30
+pymupdf
+pytesseract
+Pillow
+pandas
+scikit-learn
+joblib
+reportlab

@@ -4,8 +4,6 @@ A complete document-processing product. You upload invoices and resumes (PDF or 
 
 This is the final project (Week 6). It combines the work of Weeks 1–5 into one system and adds security, anomaly detection, an AI assistant, a REST API and deployment files.
 
-![Architecture](docs/architecture.png)
-
 ## What it does
 
 | Area | What you get | Built in |
@@ -39,22 +37,6 @@ A document goes to **Needs Review** if any of these is true:
 4. A required field is missing.
 5. A field is invalid (bad email, impossible date, zero total, ...).
 6. An anomaly was found.
-
-## Screenshots
-
-| Upload | Review queue (anomaly shown) |
-|---|---|
-| ![Upload](docs/screenshots/01_upload.png) | ![Review queue](docs/screenshots/02_review_queue.png) |
-
-| Batch processing | Search & filters |
-|---|---|
-| ![Batch](docs/screenshots/03_batch_processing.png) | ![Search](docs/screenshots/04_search_filters.png) |
-
-| AI assistant answer | AI assistant: not enough information |
-|---|---|
-| ![Answer](docs/screenshots/05_ai_assistant_answer.png) | ![Refusal](docs/screenshots/06_ai_assistant_not_enough_information.png) |
-
-![Dashboard](docs/screenshots/07_dashboard.png)
 
 ## Quick start
 
